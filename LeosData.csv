@@ -15,6 +15,6 @@ HD-13,43,F,Low-grade,3,MCA-L,No,4,1.90,16,16,0,-0.08
 HD-14,46,F,Low-grade,3,MCA-L,No,4,0.70,2,2,0,0.22
 BE-1,42,F,high-grade,4,Acom,Probably,5,2.60,22,22,0,0.11
 BE-2,53,F,high-grade,5,Acom,Probably,2,1.90,26,1,25,0.15
-BE-3,53,M,high-grade,5,,No,5,1.30,11,11,0,0.24
-BE-4,47,M,Low-grade,3,,No,4,2.00,29,23,6,0.09
-BE-5,47,F,high-grade,4,,No,3,8.70,37,6,31,0.06
+BE-3,53,M,high-grade,5,Acom,No,5,1.30,11,11,0,0.24
+BE-4,47,M,Low-grade,3,MCA-L,No,4,2.00,29,23,6,0.09
+BE-5,47,F,high-grade,4,MCA-L,No,3,8.70,37,6,31,0.06
