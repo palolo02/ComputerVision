@@ -1,0 +1,9 @@
+data:
+  processed: app/dataset/processed/
+  raw: app/dataset/raw/
+
+model:
+  epochs: 10
+  learning_rate: 0.001
+  batch_size: 600
+  split_data: [0.7,0.2,0.1]

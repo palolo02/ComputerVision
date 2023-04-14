@@ -1,1 +1,9 @@
 /venv-computer-vision/*
+/app/dataset/*
+/analysis.ipynb
+/analysisDCI.ipynb
+/LeosData.csv
+/resultsCorrelation.txt
+/app/utils/__pycache__/*
+/app/models/__pycache__/*
+/app/pipeline/__pycache__/*
